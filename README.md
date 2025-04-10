@@ -32,7 +32,7 @@ A base de dados utilizada contém as seguintes colunas:
 
 ## 📷 Visual do Dashboard
 
-
+![Visual do Dashboard](./Dashboard_vendas.png)
 
 ## 🔧 Como Usar
 
